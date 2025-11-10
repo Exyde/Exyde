@@ -25,6 +25,8 @@ Check my [WIP Engine/Renderer weird project here](https://exyde.github.io/OpenGL
 - [Youtube](https://www.youtube.com/@exyde_sly) : Litteraly anything !
 - [exyde.com](https://github.com/Exyde/Exyde): 🌱 [Not ready yet]
 
+<!-- [Hire me !](https://www.malt.fr/profile/younesbalandjian) -->
+
 ## Works - Incoming !
 
 - [Work 1 ...](https://github.com/Exyde/Exyde) : Work Description...
