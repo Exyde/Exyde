@@ -1,6 +1,6 @@
 # Hello World !
 
-## 🌱 Hey ! I'm Sly / Exyde / Younes ! 🌱
+## 🌱 Hey ! I'm Younes "_Exyde_" Balandjian 🌱
 
 Hello internet !
 
