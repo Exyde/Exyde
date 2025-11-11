@@ -7,7 +7,8 @@ Hello internet !
 🔭 I'm Sly, a French video game and interactive experience developper ! I like to create interactive stuff, mostly game, involving real world datas and questionning our society !
 
 - **Create Video Games** : My main skill, I can do basically : GameDesign, Shaders, Tech Art, 3D, VFX, Programmation, Producing...
-- **Programming**  : C++, C#, Python
+- **Programming**  : C++, C#, Python, GLSL, HLSL, Haxe
+- **RealTimeVFX** : ShaderGraph, VFX Graph, Niagara, Blender, Photoshop/Krita...
 - **Game Engines** : Unity, Godot, Unreal & Pipeline Tools.
 - **Creating Game Engine & Renderer** : OpenGL and much more graphics programming to come.
 - **IRL Creation** : Wood working, arduino, 3D printing...
