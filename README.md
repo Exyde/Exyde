@@ -1,13 +1,19 @@
-# Hello World !
+# 🌿 _EXYDE — The Legend Continues_
 
-## 🌱 Hey ! I'm Younes "_Exyde_" Balandjian 🌱
+![GitHub followers](https://img.shields.io/github/followers/Exyde?style=flat&logo=github)
+![Itch.io](https://img.shields.io/badge/Itch.io-Game%20Dev-ff5a5f?logo=itch.io&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-Expert-000000?logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Creator-0E1128?logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Programmer-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Tooling-3776AB?logo=python&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-Renderer-5586A4?logo=opengl&logoColor=white)
 
-Hello internet!
+---
 
-🔭 I'm Sly, a French video game and interactive experience developer.  
-I love creating interactive works — mostly games — that blend **art, code, and reflection on society**.
+## 🌱 Hey ! I'm Younes "_Exyde_" Balandjian
 
-I’m open for **creative** or **research** work involving any of the following skills — or new ones!
+🔭 French video game & interactive experience developer.  
+I love crafting interactive works — blending **art, tech, and meaning** — with an indie spirit.
 
 Check my [WIP Engine/Renderer project](https://exyde.github.io/OpenGLRenderer/)
 
@@ -20,8 +26,8 @@ Check my [WIP Engine/Renderer project](https://exyde.github.io/OpenGLRenderer/)
 | 🎮 **Game Creation** | Game Design, Tech Art, Shaders, 3D, VFX, Production |
 | 💻 **Programming** | C++, C#, Python, GLSL, HLSL, Haxe |
 | 🔥 **Real-Time VFX** | ShaderGraph, VFX Graph, Niagara, Blender, Photoshop, Krita |
-| ⚙️ **Game Engines** | Unity, Godot, Unreal Engine, Custom Tools & Pipelines |
-| 🧩 **Engine & Renderer Dev** | OpenGL, C++, Low-Level Graphics Programming |
+| ⚙️ **Game Engines** | Unity, Godot, Unreal, Custom Tools & Pipelines |
+| 🧩 **Engine & Renderer Dev** | OpenGL, C++, Graphics Architecture |
 | 🛠️ **IRL Creation** | Woodworking, Arduino, 3D Printing, DIY Prototyping |
 
 ---
@@ -31,12 +37,12 @@ Check my [WIP Engine/Renderer project](https://exyde.github.io/OpenGLRenderer/)
 | Links | Topic |
 | ------ | ------ |
 | [**Itch**] | Video Games & Interactive Experiences |
-| [**Instagram**] | VFX, Political art, visual sharing & experiments |
-| [**Bluesky**] | Random thoughts, OpenGL engine/renderer progress |
-| [**Github**] | Various projects, with some open-source utilities |
-| [**Soundcloud**] | Kinda old musical stuff..! |
+| [**Instagram**] | VFX, Political art, sharing & experiments |
+| [**Bluesky**] | Random thoughts, OpenGL renderer logs |
+| [**Github**] | Various projects & open-source utilities |
+| [**Soundcloud**] | Old musical memories |
 | [**Youtube**] | Literally anything! |
-| [**exyde.com**] | 🌱 Not ready yet |
+| [**exyde.com**] | 🌱 Work in progress |
 
 [**Itch**]: https://exyde.itch.io/
 [**Instagram**]: https://www.instagram.com/exyde_/
