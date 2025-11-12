@@ -2,29 +2,38 @@
 
 ## 🌱 Hey ! I'm Younes "_Exyde_" Balandjian 🌱
 
-Hello internet !
+Hello internet!
 
-🔭 I'm Sly, a French video game and interactive experience developper ! I like to create interactive stuff, mostly game, involving real world datas and questionning our society !
+🔭 I'm Sly, a French video game and interactive experience developer.  
+I love creating interactive works — mostly games — that blend **art, code, and reflection on society**.
 
-- **Create Video Games** : My main skill, I can do basically : GameDesign, Shaders, Tech Art, 3D, VFX, Programmation, Producing...
-- **Programming**  : C++, C#, Python, GLSL, HLSL, Haxe
-- **RealTimeVFX** : ShaderGraph, VFX Graph, Niagara, Blender, Photoshop/Krita...
-- **Game Engines** : Unity, Godot, Unreal & Pipeline Tools.
-- **Creating Game Engine & Renderer** : OpenGL and much more graphics programming to come.
-- **IRL Creation** : Wood working, arduino, 3D printing...
+I’m open for **creative** or **research** work involving any of the following skills — or new ones!
 
-I'm open for creative or research work involving some of thoses skills, or even new ones !
+Check my [WIP Engine/Renderer project](https://exyde.github.io/OpenGLRenderer/)
 
-Check my [WIP Engine/Renderer weird project here](https://exyde.github.io/OpenGLRenderer/)
+---
 
-## Links
+## 🧠 Core Skills
+
+| Domain | Tools / Languages / Frameworks |
+| ------- | ------------------------------ |
+| 🎮 **Game Creation** | Game Design, Tech Art, Shaders, 3D, VFX, Production |
+| 💻 **Programming** | C++, C#, Python, GLSL, HLSL, Haxe |
+| 🔥 **Real-Time VFX** | ShaderGraph, VFX Graph, Niagara, Blender, Photoshop, Krita |
+| ⚙️ **Game Engines** | Unity, Godot, Unreal Engine, Custom Tools & Pipelines |
+| 🧩 **Engine & Renderer Dev** | OpenGL, C++, Low-Level Graphics Programming |
+| 🛠️ **IRL Creation** | Woodworking, Arduino, 3D Printing, DIY Prototyping |
+
+---
+
+## 🔗 Links
 
 | Links | Topic |
 | ------ | ------ |
 | [**Itch**] | Video Games & Interactive Experiences |
-| [**Instagram**] | VFX, Political stuff, art sharing & more |
-| [**Bluesky**] | Random personal thoughts, OpenGL engine/renderer progress |
-| [**Github**] | Various projects, with some open source utilities |
+| [**Instagram**] | VFX, Political art, visual sharing & experiments |
+| [**Bluesky**] | Random thoughts, OpenGL engine/renderer progress |
+| [**Github**] | Various projects, with some open-source utilities |
 | [**Soundcloud**] | Kinda old musical stuff..! |
 | [**Youtube**] | Literally anything! |
 | [**exyde.com**] | 🌱 Not ready yet |
@@ -37,21 +46,38 @@ Check my [WIP Engine/Renderer weird project here](https://exyde.github.io/OpenGL
 [**Youtube**]: https://www.youtube.com/@exyde_sly
 [**exyde.com**]: https://github.com/Exyde
 
+---
 
-<!-- [Hire me !](https://www.malt.fr/profile/younesbalandjian) -->
+## 🧩 Works — Incoming!
 
+| Project | Description |
+| -------- | ------------ |
+| [**World Of Aria**] | Ludogram stuff... |
+| [**Road96**] | Digix Art stuff... |
+| [**Tool & Resources Database**] | Incoming... |
+| [**Kingdom Heroes**] | Work Description... |
+| [**Etude n°4**] | ... |
+| [**What Remains of Ourselves**] | ... |
+| [**Master Thesis + Game**] | ... |
+| [**Outtraghe**] | ... |
+| [**Game Engine**] | ... |
 
-## Works - Incoming !
+[**World Of Aria**]: #
+[**Road96**]: #
+[**Tool & Resources Database**]: #
+[**Kingdom Heroes**]: https://github.com/Exyde
+[**Etude n°4**]: https://github.com/Exyde
+[**What Remains of Ourselves**]: https://github.com/Exyde
+[**Master Thesis + Game**]: https://github.com/Exyde
+[**Outtraghe**]: https://github.com/Exyde
+[**Game Engine**]: https://github.com/Exyde
 
-- [World Of Aria](): Ludogram shtuff ... 
-- [Road96](): Digix Art shtuff ...
-- [Tool & Ressources Database](): Incoming...
-- [Kingdom Heroes](https://github.com/Exyde) : Work Description...
-- [Etude n°4](https://github.com/Exyde) : ...
-- [What Remains of Ourselves](https://github.com/Exyde) : ...
-- [Master Thesis + Game](https://github.com/Exyde) : ...
-- [Outtraghe](https://github.com/Exyde) : ...
-- [Game Engine](https://github.com/Exyde) : ...
+---
 
-## Featured - 
-- [Arles Jam Article] ?
+## 📰 Featured
+
+| Reference | Description |
+| ---------- | ------------ |
+| [**Arles Jam Article**] | ? |
+
+[**Arles Jam Article**]: #
