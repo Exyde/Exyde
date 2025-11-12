@@ -18,33 +18,25 @@ I'm open for creative or research work involving some of thoses skills, or even 
 Check my [WIP Engine/Renderer weird project here](https://exyde.github.io/OpenGLRenderer/)
 
 ## Links
-- [Itch](https://exyde.itch.io/): Video Games & Interactive Experiences
-- [Instagram](https://www.instagram.com/exyde_/): VFX, Politicals stuff, art sharing & more
-- [Bluesky](https://bsky.app/profile/exyde.bsky.social): random personnal though, opengl engine/renderer progress
-- [Github](https://github.com/Exyde): Various projects, with some open sources utilities
-- [Soundcloud](https://soundcloud.com/mystprod): Kinda old musical stuffs.. !
-- [Youtube](https://www.youtube.com/@exyde_sly) : Litteraly anything !
-- [exyde.com](https://github.com/Exyde): 🌱 [Not ready yet]
 
-| Links        | Topic                                                         |
-| ------------ | ------------------------------------------------------------- |
-| **Itch**     | Engine core                                                   |
-| **Python3**  | Scripting, media conversion, in-game console, code generation |
-| [**Cython**] | Python/C++ Glue code                                          |
-| [**Qt6**]    | Graphical user interface                                      |
-| [**CMake**]  | Build system                                                  |
-| [**OpenGL**] | Rendering, shaders                                            |
-| [**Opus**]   | Audio codec                                                   |
-| [**nyan**]   | Content Configuration and Modding                             |
-| [**Humans**] | Mixing together all of the above                              |
+| Links | Topic |
+| ------ | ------ |
+| [**Itch**] | Video Games & Interactive Experiences |
+| [**Instagram**] | VFX, Political stuff, art sharing & more |
+| [**Bluesky**] | Random personal thoughts, OpenGL engine/renderer progress |
+| [**Github**] | Various projects, with some open source utilities |
+| [**Soundcloud**] | Kinda old musical stuff..! |
+| [**Youtube**] | Literally anything! |
+| [**exyde.com**] | 🌱 Not ready yet |
 
-[**Itch**]: [https://cython.org/](https://exyde.itch.io/)
-[**Qt6**]: https://contribute.qt-project.org/
-[**CMake**]: https://cmake.org/
-[**OpenGL**]: https://www.opengl.org/
-[**Opus**]: https://opus-codec.org/
-[**nyan**]: https://github.com/SFTtech/nyan
-[**Humans**]: https://www.youtube.com/watch?v=fQGbXmkSArs&t=18s
+[**Itch**]: https://exyde.itch.io/
+[**Instagram**]: https://www.instagram.com/exyde_/
+[**Bluesky**]: https://bsky.app/profile/exyde.bsky.social
+[**Github**]: https://github.com/Exyde
+[**Soundcloud**]: https://soundcloud.com/mystprod
+[**Youtube**]: https://www.youtube.com/@exyde_sly
+[**exyde.com**]: https://github.com/Exyde
+
 
 <!-- [Hire me !](https://www.malt.fr/profile/younesbalandjian) -->
 
