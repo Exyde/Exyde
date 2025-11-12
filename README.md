@@ -26,6 +26,26 @@ Check my [WIP Engine/Renderer weird project here](https://exyde.github.io/OpenGL
 - [Youtube](https://www.youtube.com/@exyde_sly) : Litteraly anything !
 - [exyde.com](https://github.com/Exyde): 🌱 [Not ready yet]
 
+| Links        | Topic                                                         |
+| ------------ | ------------------------------------------------------------- |
+| **Itch**     | Engine core                                                   |
+| **Python3**  | Scripting, media conversion, in-game console, code generation |
+| [**Cython**] | Python/C++ Glue code                                          |
+| [**Qt6**]    | Graphical user interface                                      |
+| [**CMake**]  | Build system                                                  |
+| [**OpenGL**] | Rendering, shaders                                            |
+| [**Opus**]   | Audio codec                                                   |
+| [**nyan**]   | Content Configuration and Modding                             |
+| [**Humans**] | Mixing together all of the above                              |
+
+[**Itch**]: [https://cython.org/](https://exyde.itch.io/)
+[**Qt6**]: https://contribute.qt-project.org/
+[**CMake**]: https://cmake.org/
+[**OpenGL**]: https://www.opengl.org/
+[**Opus**]: https://opus-codec.org/
+[**nyan**]: https://github.com/SFTtech/nyan
+[**Humans**]: https://www.youtube.com/watch?v=fQGbXmkSArs&t=18s
+
 <!-- [Hire me !](https://www.malt.fr/profile/younesbalandjian) -->
 
 
